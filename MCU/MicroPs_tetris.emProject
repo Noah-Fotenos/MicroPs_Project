@@ -61,8 +61,12 @@
       <configuration Name="Common" filter="c;cpp;cxx;cc;h;s;asm;inc" />
       <file file_name="main.c" />
       <file file_name="main.h" />
+      <file file_name="ps2_keyboard.c" />
+      <file file_name="ps2_keyboard.h" />
       <file file_name="random.c" />
       <file file_name="random.h" />
+      <file file_name="spi_protocol.c" />
+      <file file_name="spi_protocol.h" />
       <file file_name="STM32L432KC.h" />
       <file file_name="STM32L432KC_FLASH.c" />
       <file file_name="STM32L432KC_FLASH.h" />
